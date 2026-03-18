@@ -3,7 +3,7 @@ title: "Gaussian 26で計算化学が少し近くなった: RDKit配座生成と
 emoji: "🧪"
 type: "tech"
 topics: ["Gaussian", "RDKit", "DFT", "計算化学"]
-published: false
+published: true
 publication_name: "poclab_techblog"
 ---
 
